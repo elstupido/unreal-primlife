@@ -1,6 +1,8 @@
 # PrimLife
 
+
 This repository contains the skeleton **Unreal Engine 5.6** project for **PrimLife**, a spiritual successor to Jason Spofford's *Primordial Life*.
+
 
 ## Project Structure
 
@@ -9,6 +11,7 @@ This repository contains the skeleton **Unreal Engine 5.6** project for **PrimLi
 - `Content/` - Assets and Blueprints.
 
 ## Getting Started
+
 
 1. Install **Unreal Engine 5.6**.
 2. Clone this repository and open `PrimLife.uproject` with Unreal Engine 5.6.
@@ -31,3 +34,4 @@ The `NeonLineActor` class demonstrates drawing a bright red line using debug
 drawing. Add this actor to an empty level with a black background to mimic the
 look of a neon light. You can adjust the line's start and end points, color
 intensity, and thickness in the Details panel after placing it in the scene.
+
