@@ -1,0 +1,13 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "5.3",
+    "Category": "Games",
+    "Description": "PrimLife - A spiritual successor to Jason Spofford's Primordial Life",
+    "Modules": [
+        {
+            "Name": "PrimLife",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
